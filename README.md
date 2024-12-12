@@ -47,9 +47,9 @@ The primary need of this project is to conduct a descriptive and Exploratory Ana
 ## Methodology:
 * The process of DAP designing and implementation is complex.
 * This involves 3 stages namely:
-### Step 1 - [Descryptive Analysis of Vancouver city Parks](https://abdul-busi653.github.io/Descriptive-Analysis-of-Vancouver-City-Parks/)
+### Part 1 - [Descryptive Analysis of Vancouver city Parks](https://abdul-busi653.github.io/Descriptive-Analysis-of-Vancouver-City-Parks/)
 * Data or Datasets are very important when we are going to analys
-### Step 2 - [Exploratory Analysis of Vancouver city Parks](https://abdul-busi653.github.io/Exploratory-Analysis-of-Vancouver-City-Parks/)
+### Part 2 - [Exploratory Analysis of Vancouver city Parks](https://abdul-busi653.github.io/Exploratory-Analysis-of-Vancouver-City-Parks/)
 * Data or Datasets are very important when we are going to analys
-### Step 3 - [DAP Advanced Procedures of Data Enriching, Protection, Governance and Observability](https://abdul-busi653.github.io/Vancouver-City-Project-Advanced-DAP-Procedures/)
+### Part 3 - [DAP Advanced Procedures of Data Enriching, Protection, Governance and Observability](https://abdul-busi653.github.io/Vancouver-City-Project-Advanced-DAP-Procedures/)
 * Data or Datasets are very important when we are going to analys
