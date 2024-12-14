@@ -8,10 +8,10 @@ Instructor: Mahmood Mortazavi Dehkordi<br>
 
 ___
 
-# Project Description: Descriptive Analysis of Lost and Found Animal Records
+# Project Description: Descriptive Analysis of City Parks
 In this assignment I will be describing the details of the City of Vancouver project mainly about the Data Analytic Platform (DAP) implementation (the datasets used and the various derivations and DAP design using the datasets I selected. For this assignment I used the website [City of Vancouver Open Data Portal](https://opendata.vancouver.ca/explore/dataset/parks/table/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJoZWN0YXJlIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzAyNzlCMSJ9XSwieEF4aXMiOiJuZWlnaGJvdXJob29kbmFtZSIsIm1heHBvaW50cyI6NTAsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd25UaW1lc2NhbGUiOiIiLCJjb25maWciOnsiZGF0YXNldCI6InBhcmtzIiwib3B0aW9ucyI6e319fV0sInRpbWVzY2FsZSI6IiIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&location=11,49.22852,-123.12388) for getting some open source available datasets for various segments related to the Vancouver City operations.
 
-## Project Title: Understanding Yearly Lost and Found Animal Patterns
+## Project Title: Understanding  City Parks
 The primary need of this project is to conduct a descriptive and Exploratory Analysis of Vancouver City Parks based on the datasets taken from [City of Vancouver Open Data Portal](https://opendata.vancouver.ca/explore/dataset/parks/table/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJoZWN0YXJlIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzAyNzlCMSJ9XSwieEF4aXMiOiJuZWlnaGJvdXJob29kbmFtZSIsIm1heHBvaW50cyI6NTAsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd25UaW1lc2NhbGUiOiIiLCJjb25maWciOnsiZGF0YXNldCI6InBhcmtzIiwib3B0aW9ucyI6e319fV0sInRpbWVzY2FsZSI6IiIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&location=11,49.22852,-123.12388). The hope with this question was to gain insight into how accessible washrooms are in city parks and perhaps assess how well a park is outfitted to meet the needs of a visitor.
 ## Project Objective:
 * Data Analysis Process (DAP) is the methodical way of viewing data and discovering useful insights or patterns, helping to make decisions.
