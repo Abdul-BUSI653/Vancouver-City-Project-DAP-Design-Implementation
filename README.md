@@ -27,7 +27,7 @@ The primary need of this project is to conduct a descriptive and Exploratory Ana
   * Parks washrooms
   * Parks facilities
   * Parks special features
-* This data set contain the indformation of data columnc like:
+* This data set contain the information of data columns like:
   * ParkID: Id issued for each park
   * Name: Name issued for each park
   * Official: '1' if official and '0' if not
